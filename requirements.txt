@@ -5,3 +5,6 @@ openai
 python-dotenv
 opencv-contrib-python
 openai-whisper
+gtts
+moviepy
+instagrapi
